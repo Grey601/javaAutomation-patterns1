@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e1w5nc6m0185gv72?svg=true)](https://ci.appveyor.com/project/Grey601/javaautomation-selenide)
+[![Build status](https://ci.appveyor.com/api/projects/status/u32sy8sl1af30ojh?svg=true)](https://ci.appveyor.com/project/Grey601/javaautomation-patterns1)
